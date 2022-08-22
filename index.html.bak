@@ -70,7 +70,7 @@
               <p>A propos de moi<a href="http://html5up.net"><br>
                 </a></p>
             </header>
-            <p style="float:right; margin: 0.5em; margin-top:1em"> <img src="./images/diapo_1.jpeg"
+            <p style="float:right; margin: 0.5em; margin-top:1em"> <img src="images/diapo_1.jpeg"
 
                 alt="Chardonnay" title="Raisin Chardonnay" style="width: 376px; height: 202px; vertical-align: middle;"></p>
             <p style="text-align: justify;"> Fils de viticulteur et jeune
@@ -80,7 +80,7 @@
               Qu'il s'agisse de capteur ou de robot, mettre ces technologies au
               service de l'agriculture et des agriculteurs est une nécessité
               pour relevé les défis de demain.</p>
-            <p style="float:left; margin: 0.5em;"><img src="./images/The-Future-of-Smart-Farming-png-g4o6m5f9wg.png"
+            <p style="float:left; margin: 0.5em;"><img src="images/The-Future-of-Smart-Farming-png-g4o6m5f9wg.png"
 
                 alt="All element of Agriculture 4.0" title="All element of Agriculture 4.0"
 
@@ -90,7 +90,7 @@
               à développer des systèmes d'aide à la conduite, de guidage
               autonome local et d'assistance à l'utilisation de robot pour
               l'agriculture aussi bien dans le secteur privée que publique.</p>
-            <p style="float:right; margin: 0.5em; margin-top:0.5em"><img src="./images/me.png"
+            <p style="float:right; margin: 0.5em; margin-top:0.5em"><img src="images/me.png"
 
                 alt="Motivation and creativity" title="Motivation and creativity"
 
@@ -101,7 +101,7 @@
               maraîchers me tient à coeur. De plus, les défis à venir pour ces
               domaines sont un enjeu crucial pour notre société. Leur proposer
               des solutions est donc une nécessité.</p>
-            <p style="float:left; margin: 0.5em; margin-top:3em"><img src="./images/phd.jpg"
+            <p style="float:left; margin: 0.5em; margin-top:3em"><img src="images/phd.jpg"
 
                 alt="Phd_competence" title="Phd_competence" style="width: 303px; height: 307px;"></p>
             <p style="text-align: justify;">Après 3 années de contrats divers au
@@ -153,13 +153,20 @@
       <section id="three">
         <div class="container">
           <h3>Mon parcous</h3>
-          <p>Integer eu ante ornare amet commetus vestibulum blandit integer in
-            curae ac faucibus integer non. Adipiscing cubilia elementum integer.
-            Integer eu ante ornare amet commetus.</p>
+          <p>Au cours de mon expérience professionnelle, j'ai pu cotoyer
+            différents domaines de la robotique allant de la conception assistée
+            par ordinateur à la conception d'interface utilisateur adaptative.
+            J'ai pu ainsi développer différentes compétences et prendre
+            conscience de toute la complexité des projets robotiques qui au
+            premier abord peuvent paraître simple. La conception d'un robot
+            autonome répondant à un besoin d'un utilisateur est un challenge. Et
+            cela est d'autant plus vrai dans le domaine agricole.</p>
           <div class="features">
-            <article> <a href="#" class="image"><img src="./images/e3_real_cao.png" alt=""></a>
+            <article> <a href="#" class="image"><img src="./images/e3_real_cao.png"
+
+                  alt=""></a>
               <div class="inner">
-                <h4>Possibly broke spacetime</h4>
+                <h4>Conception d'un châssis de robot</h4>
                 <p style="text-align: justify; margin:0.1em; margin-top:0.1em">
                   Lors de ma première expérience professionnelle après mon
                   diplôme, mes premiers travaux ont concerné la réalisation d'un
