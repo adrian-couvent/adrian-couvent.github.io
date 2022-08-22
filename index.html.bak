@@ -70,7 +70,7 @@
               <p>A propos de moi<a href="http://html5up.net"><br>
                 </a></p>
             </header>
-            <p style="float:right; margin: 0.5em; margin-top:1em"> <img src="file:///C:/Users/Adrian%20Couvent/Desktop/Perso/site_champagne/diapo_1.jpeg"
+            <p style="float:right; margin: 0.5em; margin-top:1em"> <img src="./images/diapo_1.jpeg"
 
                 alt="Chardonnay" title="Raisin Chardonnay" style="width: 376px; height: 202px; vertical-align: middle;"></p>
             <p style="text-align: justify;"> Fils de viticulteur et jeune
@@ -80,7 +80,7 @@
               Qu'il s'agisse de capteur ou de robot, mettre ces technologies au
               service de l'agriculture et des agriculteurs est une nécessité
               pour relevé les défis de demain.</p>
-            <p style="float:left; margin: 0.5em;"><img src="file:///C:/Users/Adrian%20Couvent/Desktop/Pro/StartUp/Site_web/page_web/site_adrian.github.io/images/The-Future-of-Smart-Farming-png-g4o6m5f9wg.png"
+            <p style="float:left; margin: 0.5em;"><img src="./images/The-Future-of-Smart-Farming-png-g4o6m5f9wg.png"
 
                 alt="All element of Agriculture 4.0" title="All element of Agriculture 4.0"
 
@@ -90,7 +90,7 @@
               à développer des systèmes d'aide à la conduite, de guidage
               autonome local et d'assistance à l'utilisation de robot pour
               l'agriculture aussi bien dans le secteur privée que publique.</p>
-            <p style="float:right; margin: 0.5em; margin-top:0.5em"><img src="file:///C:/Users/Adrian%20Couvent/Desktop/Pro/StartUp/Site_web/page_web/site_adrian.github.io/images/me.png"
+            <p style="float:right; margin: 0.5em; margin-top:0.5em"><img src="./images/me.png"
 
                 alt="Motivation and creativity" title="Motivation and creativity"
 
@@ -157,7 +157,7 @@
             curae ac faucibus integer non. Adipiscing cubilia elementum integer.
             Integer eu ante ornare amet commetus.</p>
           <div class="features">
-            <article> <a href="#" class="image"><img src="images/pic01.jpg" alt=""></a>
+            <article> <a href="#" class="image"><img src="./images/e3_real_cao.png" alt=""></a>
               <div class="inner">
                 <h4>Possibly broke spacetime</h4>
                 <p style="text-align: justify; margin:0.1em; margin-top:0.1em">
@@ -165,20 +165,16 @@
                   diplôme, mes premiers travaux ont concerné la réalisation d'un
                   châssis de robot devant supporter 100kg mais ne pouvant pas
                   excéder 25kg au total. </p>
-                <p style="text-align: center;"> <img src="file:///C:/Users/Adrian%20Couvent/Desktop/Pro/StartUp/Site_web/page_web/site_adrian.github.io/images/e3_real_cao.png"
-
-                    alt="Motivation and creativity" title="e3_model" style="width: 273px; height: 185px;">
-                </p>
               </div>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic02.jpg" alt=""></a>
+            <article> <a href="#" class="image"><img src="./images/pic02.jpg" alt=""></a>
               <div class="inner">
                 <h4>Terraformed a small moon</h4>
                 <p>Integer eu ante ornare amet commetus vestibulum blandit
                   integer in curae ac faucibus integer adipiscing ornare amet.</p>
               </div>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic03.jpg" alt=""></a>
+            <article> <a href="#" class="image"><img src="./images/pic03.jpg" alt=""></a>
               <div class="inner">
                 <h4>Snapped dark matter in the wild</h4>
                 <p>Integer eu ante ornare amet commetus vestibulum blandit
